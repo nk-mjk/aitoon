@@ -1,3 +1,5 @@
+![AItoon](aitoon-title.jpg)
+
 # 🎨 aitoon — AI 웹툰 제작 통합 스킬
 
 > 스토리를 넣으면 웹툰이 나옵니다. Claude Cowork로 컷만화·인스타툰을 만드는 통합 스킬.
